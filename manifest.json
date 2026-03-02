@@ -2,7 +2,7 @@
   "name": "CMFI SA Attendance",
   "short_name": "CMFI",
   "description": "CMFI SA Friday meeting attendance tracker",
-  "start_url": "/index.html",
+  "start_url": ".",
   "display": "standalone",
   "background_color": "#0a1628",
   "theme_color": "#0a1628",
